@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Lato:100,100i,400,700,900|Open+Sans:300,300i,400,600,700,800|Nanum+Pen+Script:400,700|Oxygen&display=swap');
+
+/* General styling settings */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    height: 100%;
+    background-color: #fcfafa;
+    width: 100vw;
+    line-height: 1.7;
+    overflow-x: hidden;
+    font-weight: 400;
+}
